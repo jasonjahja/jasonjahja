@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jason Jahja</h1>
+<h1 align="center">Hi there! 👋 I'm Jason Jahja.</h1>
 
 <h2 align="left">💡 About Me</h2>
 <p align="left">A software developer specializing in Website Development and UI/UX, with a growing interest and focus on AI and Machine Learning
