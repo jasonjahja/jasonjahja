@@ -13,7 +13,7 @@
 
 <h2 align="left">👀 My Social Media</h2>
 <p align="left">
-  Let's connect and get to know each other better through my social media profiles below!<br>
+  Let's connect and get to know each other better through my social media profiles below!<br><br>
   <a href="https://linkedin.com/in/jason jahja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason jahja" height="30" width="40" /></a>
   <a href="https://instagram.com/jace_.135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jace_.135" height="30" width="40" /></a>
 </p>
