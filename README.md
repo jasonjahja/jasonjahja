@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonjahja&show_icons=true&locale=en&layout=compact" alt="jasonjahja" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonjahja&show_icons=true&locale=en" alt="jasonjahja" /></p>
+
+![snake gif](https://github.com/jasonjahja/jasonjahja/blob/output/github-contribution-grid-snake-dark.svg)
