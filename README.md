@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/jason-jahja-b20714262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://instagram.com/jace_.135" target="_blank">
+  <a href="https://www.instagram.com/jaceonix/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-d13670?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -30,9 +30,6 @@
 <br>
 
 <h2 align="left">🔥 My Stats</h2>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonjahja&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="jasonjahja" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonjahja&show_icons=true&theme=synthwave&locale=en" alt="jasonjahja" /></p> -->
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonjahja&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="jasonjahja" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonjahja&show_icons=true&theme=cobalt&locale=en" alt="jasonjahja" /></p>
 
