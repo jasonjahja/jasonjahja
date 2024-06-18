@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&color=75eeb2&center=true&vCenter=true&repeat=false&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B+I'm+Jason+Jahja!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=6000&color=75eeb2&center=true&vCenter=true&repeat=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B+I'm+Jason+Jahja!" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -8,7 +8,7 @@
   <ul>
     <li>🌍 Based in Jakarta, Indonesia</li>
     <li>👨‍🎓 Currently a second-year student majoring in Technology and System Information at Bandung Institute of Technology</li>
-    <li>💼 Currently serving as Vice CTO at IIT ITB</li>
+    <li>💼 Currently occupying the role of Vice CTO at IIT ITB</li>
   </ul>
 </p>
 
