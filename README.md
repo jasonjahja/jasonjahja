@@ -7,7 +7,7 @@
 <p align="left">A software developer specializing in Website Development and UI/UX, with a growing interest and focus on AI and Machine Learning
   <ul>
     <li>🌍 Based in Jakarta, Indonesia</li>
-    <li>👨‍🎓 Currently a second-year student majoring in Technology and System Information at Bandung Institute of Technology</li>
+    <li>👨‍🎓 Currently a third-year student majoring in Technology and System Information at Bandung Institute of Technology</li>
     <li>💼 Currently occupying the role of Vice CTO at IIT ITB</li>
   </ul>
 </p>
