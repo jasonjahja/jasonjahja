@@ -7,7 +7,7 @@
 <p align="left">A software developer specializing in Website Development and UI/UX, with a growing interest and focus on AI and Machine Learning
   <ul>
     <li>🌍 Based in Jakarta, Indonesia</li>
-    <li>👨‍🎓 Currently a third-year student majoring in Technology and System Information at Bandung Institute of Technology</li>
+    <li>👨‍🎓 Currently a fifth-year student majoring in Technology and System Information at Bandung Institute of Technology</li>
     <li>💼 Currently occupying the role of Vice CTO at IIT ITB</li>
   </ul>
 </p>
@@ -29,15 +29,8 @@
 <br>
 
 <div align="center" >
-  <img src="https://github.com/jasonjahja/jasonjahja/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif">
-
-  <br>
-
   <h2>⚡ My Stats ⚡</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonjahja&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="jasonjahja" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=jasonjahja&show_icons=true&theme=cobalt&locale=en" alt="jasonjahja" />
   </p>
 </div>
